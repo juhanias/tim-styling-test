@@ -18,7 +18,7 @@ a very experimental custom styling test for the tim platform
 | ![tim-modern-dark](/readme-images/more-lecturing-old.png) | ![tim-modern-dark](/readme-images/more-lecturing-new.png) |
 | ![tim-modern-dark](/readme-images/sidenav-old.png) | ![tim-modern-dark](/readme-images/sidenav-new.png) |
 
-# installationa
+# installation
 * copy the contents of `tim-modern-dark.css` to the clipboard
 * go to https://tim.jyu.fi/settings > Custom CSS and paste the contents into the text area
 * save the changes
